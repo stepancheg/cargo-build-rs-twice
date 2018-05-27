@@ -1,0 +1,7 @@
+[package]
+name = "fgfgf"
+version = "0.1.0"
+authors = ["Stepan Koltsov <stepan.koltsov@gmail.com>"]
+
+[build-dependencies]
+libc = "0"
